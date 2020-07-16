@@ -1,5 +1,7 @@
-document.querySelector("#colorDivId").style.backgroundColor = "black";
-document.querySelectorAll("input").forEach((i) => i.value = 0);
+function onLoadInput() {
+    document.querySelector("#colorDivId").style.backgroundColor = "black";
+    document.querySelectorAll("input").forEach((i) => i.value = 0);
+}
 
 function onChangeInput() {
     const r = document.querySelector("#r").value;
