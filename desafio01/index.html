@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie-edge"/>
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>
+    <link rel="stylesheet" href= "./css/styles.css" />
+    <title>Desafio Módulo 01</title>
+</head>
+<body>
+    <h1>Desafio Módulo 01</h1>
+    <div class="user-container">
+        <div class="user-list">
+            <form>
+                <label>Busca:</label>
+                <input type="text" id="inputTextId" placeholder="Informe um nome aqui..."/>
+                <input type="button" id="buttonId" value="Pesquisar" onclick="onButtonClick()">                 
+            </form>
+            <div class="user-list">
+                <h5>(<span id="countUsers"></span>) usuários encontrados</h5>
+                <div id="tabUsers"></div>
+            </div>
+            <div class="user-list">
+                <h5>Estatísticas</h5>
+                <div id="tabFavorites">
+                    <div>Sexo masculino: <span id="sexoMasculinoId"></span></div>
+                    <div>Sexo feminino: <span id="sexoFemininoId"></span></div>
+                    <div>Soma das idades: <span id="somaIdadesId"></span></div>
+                    <div>Média das idades: <span id="mediaIdadesId"></span></div>                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="./js/script.js"></script>
+</body>
+</html>
