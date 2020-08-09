@@ -1,0 +1,85 @@
+2020-08-08T22:49:52.445Z [my-bank-api] info: API Started and File Created!
+2020-08-08T22:50:06.781Z [my-bank-api] error: ENOENT: no such file or directory, open 'C:\cygwin64\home\Avell\IGTI-Bootcamp\my-bank-api\accounts.json'
+2020-08-08T22:54:30.073Z [my-bank-api] info: API Started and File Created!
+2020-08-08T22:54:40.281Z [my-bank-api] info: API Started!
+2020-08-08T22:55:05.847Z [my-bank-api] error: POST /account ENOENT: no such file or directory, open 'C:\cygwin64\home\Avell\IGTI-Bootcamp\my-bank-api\accounts.json'
+2020-08-08T22:56:17.103Z [my-bank-api] info: API Started and File Created!
+2020-08-08T22:56:55.631Z [my-bank-api] info: API Started!
+2020-08-08T22:57:28.728Z [my-bank-api] info: API Started!
+2020-08-08T22:57:29.185Z [my-bank-api] info: API Started!
+2020-08-08T22:57:53.948Z [my-bank-api] info: API Started!
+2020-08-08T22:58:18.941Z [my-bank-api] info: API Started!
+2020-08-08T22:58:19.234Z [my-bank-api] info: API Started!
+2020-08-08T22:58:19.484Z [my-bank-api] info: API Started!
+2020-08-08T22:59:17.233Z [my-bank-api] info: POST /account - {"id":1,"name":"João de Deus","balance":201}
+2020-08-08T22:59:22.796Z [my-bank-api] info: POST /account - {"id":2,"name":"João de Deus","balance":201}
+2020-08-08T22:59:23.655Z [my-bank-api] info: POST /account - {"id":3,"name":"João de Deus","balance":201}
+2020-08-08T23:06:54.075Z [my-bank-api] info: API Started!
+2020-08-08T23:07:14.461Z [my-bank-api] info: API Started!
+2020-08-08T23:07:14.816Z [my-bank-api] info: API Started!
+2020-08-08T23:07:51.391Z [my-bank-api] info: API Started!
+2020-08-08T23:08:22.065Z [my-bank-api] info: API Started!
+2020-08-08T23:08:45.412Z [my-bank-api] info: API Started!
+2020-08-08T23:09:23.671Z [my-bank-api] info: API Started!
+2020-08-08T23:09:44.289Z [my-bank-api] info: API Started!
+2020-08-08T23:14:27.019Z [my-bank-api] info: API Started!
+2020-08-08T23:14:41.988Z [my-bank-api] info: API Started!
+2020-08-08T23:14:42.346Z [my-bank-api] info: API Started!
+2020-08-08T23:15:00.818Z [my-bank-api] info: POST /account - {"id":4,"name":"João de Deus","balance":201}
+2020-08-08T23:15:01.581Z [my-bank-api] info: POST /account - {"id":5,"name":"João de Deus","balance":201}
+2020-08-08T23:15:02.179Z [my-bank-api] info: POST /account - {"id":6,"name":"João de Deus","balance":201}
+2020-08-08T23:15:02.646Z [my-bank-api] info: POST /account - {"id":7,"name":"João de Deus","balance":201}
+2020-08-08T23:16:56.105Z [my-bank-api] error: POST /account ENOENT: no such file or directory, open 'C:\cygwin64\home\Avell\IGTI-Bootcamp\my-bank-api\accounts.json'
+2020-08-08T23:16:57.092Z [my-bank-api] error: POST /account ENOENT: no such file or directory, open 'C:\cygwin64\home\Avell\IGTI-Bootcamp\my-bank-api\accounts.json'
+2020-08-08T23:17:04.656Z [my-bank-api] info: API Started and File Created!
+2020-08-08T23:17:10.212Z [my-bank-api] info: POST /account - {"id":1,"name":"João de Deus","balance":201}
+2020-08-08T23:17:11.222Z [my-bank-api] info: POST /account - {"id":2,"name":"João de Deus","balance":201}
+2020-08-08T23:17:11.720Z [my-bank-api] info: POST /account - {"id":3,"name":"João de Deus","balance":201}
+2020-08-08T23:17:12.152Z [my-bank-api] info: POST /account - {"id":4,"name":"João de Deus","balance":201}
+2020-08-08T23:17:12.679Z [my-bank-api] info: POST /account - {"id":5,"name":"João de Deus","balance":201}
+2020-08-08T23:17:52.593Z [my-bank-api] info: API Started!
+2020-08-08T23:18:04.922Z [my-bank-api] info: API Started!
+2020-08-08T23:18:05.251Z [my-bank-api] info: API Started!
+2020-08-08T23:18:09.899Z [my-bank-api] info: POST /account - {"id":6,"name":"João de Deus","balance":201}
+2020-08-08T23:18:10.638Z [my-bank-api] info: POST /account - {"id":7,"name":"João de Deus","balance":201}
+2020-08-08T23:18:11.126Z [my-bank-api] info: POST /account - {"id":8,"name":"João de Deus","balance":201}
+2020-08-08T23:18:11.575Z [my-bank-api] info: POST /account - {"id":9,"name":"João de Deus","balance":201}
+2020-08-08T23:18:12.011Z [my-bank-api] info: POST /account - {"id":10,"name":"João de Deus","balance":201}
+2020-08-08T23:20:14.375Z [my-bank-api] info: API Started!
+2020-08-08T23:23:14.695Z [my-bank-api] info: API Started!
+2020-08-08T23:23:35.524Z [my-bank-api] info: API Started!
+2020-08-08T23:23:39.665Z [my-bank-api] info: API Started!
+2020-08-08T23:23:41.989Z [my-bank-api] info: API Started!
+2020-08-08T23:23:48.076Z [my-bank-api] info: API Started!
+2020-08-08T23:23:51.295Z [my-bank-api] info: API Started!
+2020-08-08T23:24:38.933Z [my-bank-api] info: API Started!
+2020-08-08T23:31:35.170Z [my-bank-api] info: API Started!
+2020-08-08T23:32:23.260Z [my-bank-api] info: API Started!
+2020-08-08T23:32:26.509Z [my-bank-api] info: API Started!
+2020-08-08T23:33:04.142Z [my-bank-api] info: API Started!
+2020-08-08T23:33:08.575Z [my-bank-api] info: API Started!
+2020-08-08T23:33:08.841Z [my-bank-api] info: API Started!
+2020-08-09T02:58:51.324Z [my-bank-api] info: API Started!
+2020-08-09T02:59:21.187Z [my-bank-api] info: GET /account
+2020-08-09T03:09:43.807Z [my-bank-api] info: API Started!
+2020-08-09T03:09:50.425Z [my-bank-api] info: GET /account
+2020-08-09T03:12:44.514Z [my-bank-api] info: API Started!
+2020-08-09T03:12:55.785Z [my-bank-api] info: API Started!
+2020-08-09T03:13:32.537Z [my-bank-api] info: GET /account
+2020-08-09T03:15:00.429Z [my-bank-api] info: API Started!
+2020-08-09T03:15:05.974Z [my-bank-api] info: API Started!
+2020-08-09T03:15:36.736Z [my-bank-api] info: API Started!
+2020-08-09T03:29:19.885Z [my-bank-api] info: API Started!
+2020-08-09T03:37:13.155Z [my-bank-api] info: API Started!
+2020-08-09T03:38:05.055Z [my-bank-api] info: API Started!
+2020-08-09T03:38:17.607Z [my-bank-api] info: API Started!
+2020-08-09T03:38:54.627Z [my-bank-api] info: API Started!
+2020-08-09T03:39:59.274Z [my-bank-api] info: API Started!
+2020-08-09T03:41:03.210Z [my-bank-api] info: API Started!
+2020-08-09T03:42:02.535Z [my-bank-api] info: API Started!
+2020-08-09T03:42:38.449Z [my-bank-api] info: API Started!
+2020-08-09T03:45:54.660Z [my-bank-api] info: API Started!
+2020-08-09T03:45:54.954Z [my-bank-api] info: API Started!
+2020-08-09T03:45:55.218Z [my-bank-api] info: API Started!
+2020-08-09T04:06:16.367Z [my-bank-api] info: API Started!
+2020-08-09T14:27:32.576Z [my-bank-api] info: API Started!
