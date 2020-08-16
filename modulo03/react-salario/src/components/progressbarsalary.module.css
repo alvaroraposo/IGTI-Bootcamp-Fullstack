@@ -1,0 +1,20 @@
+.progressBarMainDiv {
+    display: flex;
+    margin-top: 10px
+}
+
+.inssBar {
+    background: #e67e22;
+    color: #e67e22;
+    
+}
+
+.irpfBar {
+    background: #c0392b;
+    color: #c0392b;
+}
+
+.salarioLiquidoBar {
+    background: #16a085;
+    color: #16a085;
+}

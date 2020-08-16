@@ -1,0 +1,30 @@
+.divReadOnly {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 20px;    
+}
+
+.divInput {
+    margin: 0 50px 0 0;
+}
+
+.divReadOnly input[type="text"]:disabled {
+    font-weight: bold;
+    color: black;
+}
+
+.divReadOnly div:nth-of-type(2) input:disabled {
+    font-weight: bold;
+    color: #e67e22;
+}
+
+.divReadOnly div:nth-of-type(4) input:disabled {
+    font-weight: bold;
+    color: #c0392b;
+}
+
+.divReadOnly div:nth-of-type(5) input:disabled {
+    font-weight: bold;
+    color: #16a085;
+}
