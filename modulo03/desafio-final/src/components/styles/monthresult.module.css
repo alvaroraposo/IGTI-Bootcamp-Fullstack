@@ -1,0 +1,17 @@
+.monthResultDiv {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid lightgray;
+    width: 120px;
+    padding: 5px;
+    margin: 10px 0 0 10px;
+}
+
+.monthResultCol {
+    margin: 0 auto;
+    margin-right: 10px;    
+}
+
+.monthResultCol:first-of-type {
+    margin-top: 20%;
+}

@@ -1,0 +1,8 @@
+.inputGroupDiv {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
