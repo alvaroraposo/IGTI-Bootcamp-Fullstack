@@ -20,5 +20,6 @@
       "*.json"
     ]
   },
-  "type": "module"
+  "type": "module",
+  "resolutions": { "serialize-javascript": "^2.1.1" }
 }
