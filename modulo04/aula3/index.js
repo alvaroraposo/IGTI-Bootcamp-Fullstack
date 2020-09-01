@@ -9,7 +9,7 @@ import mongoose from 'mongoose';
 // conectar ao MongoDB pelo Mongoose
 (async () => {
     try {
-        await mongoose.connect('mongodb+srv://raposo:afqassvv@raposocluster.tuiq3.mongodb.net/igti_bootcamp', {
+        await mongoose.connect('mongodb+srv://raposo:SENHA@raposocluster.tuiq3.mongodb.net/igti_bootcamp', {
             useNewUrlParser: true,
             useUnifiedTopology: true
         });

@@ -7,7 +7,7 @@ const app = express();
 //Conectando a base de dados
 (async () => {
     try {
-        await mongoose.connect('mongodb+srv://raposo:afqassvv@raposocluster.tuiq3.mongodb.net/igti_bootcamp', {
+        await mongoose.connect('mongodb+srv://raposo:SENHA@raposocluster.tuiq3.mongodb.net/igti_bootcamp', {
             useNewUrlParser: true,
             useUnifiedTopology: true
         });
