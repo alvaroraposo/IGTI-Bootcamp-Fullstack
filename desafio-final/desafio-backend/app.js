@@ -1,7 +1,7 @@
 import express from 'express';
 import bodyParser from 'body-parser';
 import dotenv from 'dotenv';
-import {gradeRouter} from './routes/gradeRouter.js';
+import {transactionRouter} from './routes/transactionRouter.js';
 
 import { db } from './models/index.js';
 
@@ -23,7 +23,7 @@ const app = express();
 //define o dominio de origem para consumo do servico
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
-app.use(gradeRouter);
+app.use(transactionRouter);
 
 app.get('/', (req, res) => {
   res.send('API em execucao');

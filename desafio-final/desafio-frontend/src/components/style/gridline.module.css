@@ -1,0 +1,22 @@
+.divGridLine {
+    text-align: justify;
+}
+
+.divGridLine .divGridLineAlignEnd {
+    text-align: end;    
+}
+
+.divGridLine .divGridLineVerticalMiddle {
+    position: relative;
+    margin: auto;
+
+}
+
+.divGridLine .divGridLineFontBold {
+    font-weight: bolder;
+    font-size: large;    
+}
+
+.divGridLine i:hover {
+    cursor: pointer;
+}

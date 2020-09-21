@@ -1,7 +1,14 @@
 import express from 'express';
 import controller from '../controllers/gradeController.js';
+import cors from 'cors';
 
 const app = express();
+app.use(
+    cors({
+        origin: 'https://igtifrontend.herokuapp.com',
+        optionsSuccessStatus: 200
+    })
+);
 
 app.post('/grade/', controller.create);
 app.get('/grade/', controller.findAll);
